@@ -11,3 +11,9 @@ GoogleNews-vectors-negative300.bin.gz
 /.idea/*
 temp.out
 *.pdf
+*.xlsx
+/results/*.txt
+/a/
+/ml_dataset/_new_label/
+ml_dataset.tar.gz
+/NCrossSizeParallelConvNFC.txt
