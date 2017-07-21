@@ -33,8 +33,8 @@ Any additional data is to be placed under `datahelpers/data` (you can of course 
 ### Dataset
 
 Machine Learning Papers (MLPapers) has been collected as follow:
-1. We have collected top 20 publications by top 20 scholars accroding to Google Scholar. 
-2. The PDF documents were converted to txt format, encoded in unicode.
+1. We have collected 20 publications for each of the top 20 scholars in Machine Learning, accroding to Google Scholar, for a total of 400 papers. 
+2. The PDF documents were converted to txt format and encoded in unicode.
 3. All documents have been stripped of title and author names, as well as reference lists
 4. `Labels.csv` file has been generated which contains the ground truths in the following format: <filename>,<author_1>,<author2>...<author_20>\n
  <filename> is plain text and <author_n> is a digit 0 or 1 indicating whether this author is one of the co-authors. The first row is the header row.
