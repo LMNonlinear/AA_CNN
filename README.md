@@ -5,7 +5,7 @@ Two channel depth-wise CNN for multi-label Authorship Attribution problems
 
 **Dainis Boumber** (dboumber@uh.edu),
 **Yifan Zhang** (yzhang114@uh.edu),
-**Arjun Mukherjee** (arjun@cs.uh.edu)**
+**Arjun Mukherjee** (arjun@cs.uh.edu)
 
 University of Houston
 
