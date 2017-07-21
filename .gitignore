@@ -13,7 +13,8 @@ temp.out
 *.pdf
 *.xlsx
 /results/*.txt
-/a/
+
 /ml_dataset/_new_label/
 ml_dataset.tar.gz
+
 
