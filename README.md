@@ -28,7 +28,7 @@ The data is located in `./ml_dataset` directory. You can also obtain it as a tar
 `Labels.csv` contains the ground truths in the following format: <filename>,<author_1>,<author2>...<author_20>\n
  <filename> is plain text and <author_n> is a digit 0 or 1 indicating whether this author is one of the co-authors. The first row is the header row.
 
-See (MLPA-400)[https://github.com/dainis-boumber/AA_CNN/wiki/MLPA-400-Dataset] for more details.
+See [MLPA-400](https://github.com/dainis-boumber/AA_CNN/wiki/MLPA-400-Dataset) for more details.
 
 
 
