@@ -10,7 +10,7 @@ Publication pending review.
  
 ### Description
 
-We explore the use of Convolutional Neural Networks (CNNs) for multi-label Authorship Attribution (AA) problems and propose a CNN specifically designed for such tasks.  By treating smaller documents as sentences and averaging the author probability distributions at sentence level for the longer documents, our design adapts to single-label datasets and various document sizes, retaining the capabilities of a traditional CNN. As a part of this work, we also create and make available to the public a multi-label Authorship Attribution dataset (ML Papers) , consisting of 400 scientific publications by 20 authors from the field of Machine Learning. Experimental results demonstrate that our method outperforms several state-of-the-art models on the proposed task. 
+We explore the use of Convolutional Neural Networks (CNNs) for multi-label Authorship Attribution (AA) problems and propose a CNN specifically designed for such tasks.  By treating smaller documents as sentences and averaging the author probability distributions at sentence level for the longer documents, our design adapts to single-label datasets and various document sizes, retaining the capabilities of a traditional CNN. As a part of this work, we also create and make available to the public a multi-label Authorship Attribution dataset (MLPA-400) , consisting of 400 scientific publications by 20 authors from the field of Machine Learning. Experimental results demonstrate that our method outperforms several state-of-the-art models on the proposed task. 
 
 ### Multi-label CNN
 
@@ -19,7 +19,9 @@ Prerequisits: `scikit-learn, tensoflow v1.0, python3`
 Run `python aa.py` for a sample set of experiments. 
 Any additional data is to be placed under `datahelpers/data` (default, can be changed)
 
-### ML Papers dataset
+### MLPA-400 dataset
+
+Machine Learning Papers' Authorship (MPLA-400) dataset contains 20 publications by each of the top-20 authors in ML, for the total of 400.
 
 The data is located in `./ml_dataset` directory. You can also obtain it as a tarball from
 
