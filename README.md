@@ -1,17 +1,12 @@
 # Experiments with Convolutional Neural Networks for Multi-Label Authorship Attribution 
 
-Publication pending review.
-
-### Authors: 
-
 **Dainis Boumber** (dboumber@uh.edu),
 **Yifan Zhang** (yzhang114@uh.edu),
 **Arjun Mukherjee** (arjun@cs.uh.edu)
 
 University of Houston
 
-Natural Language Processing Laboratory,
-Pattern Analysis Laboratory
+Publication pending review.
  
 ### Description
 
